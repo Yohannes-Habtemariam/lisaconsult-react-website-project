@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4c081367.css",
-    "main.js": "./static/js/main.16681537.js",
+    "main.js": "./static/js/main.982fdfe8.js",
     "static/media/bitcoin.png": "./static/media/bitcoin.0f04e89d09a9bb0cef5e.png",
     "static/media/WeightedMovingAverage.png": "./static/media/WeightedMovingAverage.2b4597c8a88e60cff829.png",
     "static/media/macd-indicator.png": "./static/media/macd-indicator.9139c2153ad747be0641.png",
@@ -22,10 +22,10 @@
     "static/media/stocks-vs-bonds.jpg": "./static/media/stocks-vs-bonds.d35d614614dbf81e0296.jpg",
     "index.html": "./index.html",
     "main.4c081367.css.map": "./static/css/main.4c081367.css.map",
-    "main.16681537.js.map": "./static/js/main.16681537.js.map"
+    "main.982fdfe8.js.map": "./static/js/main.982fdfe8.js.map"
   },
   "entrypoints": [
     "static/css/main.4c081367.css",
-    "static/js/main.16681537.js"
+    "static/js/main.982fdfe8.js"
   ]
 }
