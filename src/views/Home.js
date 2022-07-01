@@ -23,7 +23,7 @@ const Home = () => {
           <span className="span"> where</span>, <span className="span"> how </span>
           and <span className="span">when</span> to invest. LisaConsult is here
           for you to make your dream come true. Just click the
-          <Link to="/services"> Registration Form</Link> to register faster for
+          <Link to="/registration-form"> Registration Form</Link> to register faster for
           the course and you will enjoy an amazing life for the rest of your
           life.
         </p>
